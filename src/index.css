@@ -51,7 +51,7 @@ button {
   font-size: 16px;
   font-weight: 500;
   transition: all 0.3s ease-out;
-  background-color: rgba(250, 187, 24, 0.75);
+  background-color: rgba(24, 205, 250, 0.75);
   box-shadow: 5px 5px 5px -3px rgb(164, 164, 164);
   color: rgb(63, 63, 63);
   border: none;
@@ -60,7 +60,8 @@ button {
 button:hover,
 button:focus {
   box-shadow: 8px 8px 8px -3px rgb(164, 164, 164);
-  background-color: rgb(250, 187, 24);
+  background-color: rgba(24, 205, 250, 0.75);
+
   color: #000000;
 }
 
